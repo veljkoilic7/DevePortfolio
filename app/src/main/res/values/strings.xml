@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DevPortfolio</string>
+
+    <string name="about">
+        Hello, my name is Veljko and I am 20 years old. I am currently studying at Faculty of Technical Sciences in Novi Sad.
+        My studying programme is called Informational Technologies. I like android programming very much and I aspire to be
+        a great app maker someday :)
+    </string>
+
+    <string name="skills">
+        *Java \n*Android Development \n*C# \n*C
+    </string>
+
+    <string name="work">
+        Nothing :D
+    </string>
+
+    <string name="contact">
+
+    </string>
+</resources>
